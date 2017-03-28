@@ -1,0 +1,18 @@
+Keshav Gurushankar Per. 8 - 10/6/16
+Pages 317 (1, 2, 3)
+	
+1.	a. true
+	b. true
+	c. true
+	d. true
+	e. false
+
+2.	a. false
+	b. true
+	c. true
+	d. true
+
+3.	a. false
+	b. false
+	c. true
+	d. true
