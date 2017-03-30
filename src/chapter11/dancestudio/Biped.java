@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 // This abstract class represents a two-legged creature.
 
 import java.awt.Image;

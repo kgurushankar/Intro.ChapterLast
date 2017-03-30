@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 // A wrapper class for Dance: reverses the steps
 
 public class ReversedDance implements Dance

@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 public class Salsa extends AbstractDance
 {
   

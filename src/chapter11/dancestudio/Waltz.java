@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 public class Waltz extends AbstractDance
 {
   private static DanceStep[] steps = 

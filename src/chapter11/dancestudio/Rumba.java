@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 public class Rumba extends AbstractDance
 {
   

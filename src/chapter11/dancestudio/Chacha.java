@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 public class Chacha extends AbstractDance
 {
   private static DanceStep[] steps = 

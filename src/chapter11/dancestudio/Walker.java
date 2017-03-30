@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 // Represents a Biped that moves alternating the left and right foot
 
 import java.awt.Image;

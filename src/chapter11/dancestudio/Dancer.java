@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 // Represents a dancer in the Dance Studio project.
 
 import java.awt.Image;

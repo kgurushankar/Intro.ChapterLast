@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 public interface StudentGroup
 {
   void setup(int floorDir, Dance steps1, Dance steps2);

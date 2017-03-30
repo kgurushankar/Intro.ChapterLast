@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 //  This class processes the timer events, generates the "beat"
 //  for the dance as described by the parameters passed to its play method,
 // and calls the DanceModel's nextBeat method when the timer fires.

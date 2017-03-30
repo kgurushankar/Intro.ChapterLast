@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 // Represents a free-style dance
 
 public class Aerobics implements Dance

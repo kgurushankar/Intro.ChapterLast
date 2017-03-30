@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 // Represents a display panel for a dance group
 
 import java.awt.Graphics;

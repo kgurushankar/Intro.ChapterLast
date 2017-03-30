@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 // Represents a foot, used for displaying walking creatures.
 
 import java.awt.Image;

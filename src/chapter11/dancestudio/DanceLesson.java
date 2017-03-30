@@ -1,3 +1,5 @@
+package chapter11.dancestudio;
+
 import java.awt.*;
 import javax.swing.*;
 
